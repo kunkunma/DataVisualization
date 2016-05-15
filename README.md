@@ -1,2 +1,2 @@
 # DataVisualization
-Index.html gives a description of all visualizations.
+This is a file containg data visualization examples using p5.js
